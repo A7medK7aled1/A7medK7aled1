@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">Junior Embedded Software Engineer</h3>
+<h3 align="center">Junior Flutter Developer</h3>
 
-- 🔭 I’m training in **ITI for Embedded System**
-
-- 🌱 I am proficient in C/C++, OOP concepts, ATmega32, ARM architecture, and RTOS.
+- 🌱 I am proficient in C/C++, OOP concepts, dart and flutter.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
